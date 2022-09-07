@@ -21,10 +21,11 @@ Implemented a feature that switches a language on the page with only one html fi
 - Module Bundlers(Parcel)
 
 ## Education/courses:
-
-
-
-
+- [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+- [Harvard CS50x](https://cs50.harvard.edu/x/2022/)
+- [Git & GitHub - The Practical Guide](https://www.udemy.com/course/git-github-practical-guide/)
+- [FreeCodeCamp](https://www.freecodecamp.org/learn) (Responsive Web Design, JavaScript Algorithms and Data Structures, Front End Development Libraries)
+- [RS School JavaScript/Front-end ](https://rs.school/js/)(ongoing)
 
 ## Languages:
 - English (intermediate/upper-intermediate)
