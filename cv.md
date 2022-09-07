@@ -27,4 +27,6 @@ Implemented a feature that switches a language on the page with only one html fi
 
 
 ## Languages:
-
+- English (intermediate/upper-intermediate)
+- Russian (native)
+- German (A2 - B1)
