@@ -3,7 +3,7 @@
 ### Junior Frontend Developer
 
 ## Contact information:
-**Email**: kolosov20011@gmail.com  |  **Telegram**: [helgiology](https://t.me/helgiology) | **Discord**: lgklsv#8630 | 
+**Email**: kolosov20011@gmail.com  |  **Telegram**: [helgiology](https://t.me/helgiology) | **Discord**: lgklsv#8630 | **GitHub**: [lgklsv](https://github.com/lgklsv)
 
 ## About me: 
 I'm a student learning Frontend development and Computer Science in general. Somewhere around march 2022 I decided to switch careers, found myself curious about Computer Science. I tried it out and really enjoyed writing code and seeing amazing things that I can implement. That's how I began this exciting path! Currently I'm working on my first real web application which will help people to concentrate on their work using the pomodoro technique and track their tasks with multiple todo lists. 
